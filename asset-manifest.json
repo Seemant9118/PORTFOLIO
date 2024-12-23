@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/PORTFOLIO/static/css/main.2377ec8b.css",
-    "main.js": "/PORTFOLIO/static/js/main.7489f7c8.js",
+    "main.css": "/PORTFOLIO/static/css/main.cf78c67c.css",
+    "main.js": "/PORTFOLIO/static/js/main.a9056ba2.js",
+    "static/media/boy.png": "/PORTFOLIO/static/media/boy.1a85ffc027a06990bea1.png",
     "static/media/Social Media App.png": "/PORTFOLIO/static/media/Social Media App.6e97b923e8a8e3ecbfcd.png",
-    "static/media/reactL.gif": "/PORTFOLIO/static/media/reactL.7057f787607f4e7f1bca.gif",
-    "static/media/boy.png": "/PORTFOLIO/static/media/boy.5ca4b670a32b71681d2c.png",
     "static/media/TellsWeather.png": "/PORTFOLIO/static/media/TellsWeather.b842094b96c9a29387fd.png",
     "static/media/React.png": "/PORTFOLIO/static/media/React.e90a6f7c0d83b2748879.png",
     "static/media/GroShopEcom2.png": "/PORTFOLIO/static/media/GroShopEcom2.1bb290a44a9502e50bad.png",
+    "static/media/nextJs.png": "/PORTFOLIO/static/media/nextJs.0dc5d2fa31ab792aa9c7.png",
     "static/media/wow.svg": "/PORTFOLIO/static/media/wow.065bbfd88bbf23107ffbeae6c32b28ae.svg",
     "static/media/Skillark.jpg": "/PORTFOLIO/static/media/Skillark.458bebbf684f3af6e3bc.jpg",
     "static/media/KvLogo.jpeg": "/PORTFOLIO/static/media/KvLogo.6d4c40150b64111a15b6.jpeg",
@@ -18,16 +18,15 @@
     "static/media/Nodejs.png": "/PORTFOLIO/static/media/Nodejs.478c590a266bed215577.png",
     "static/media/wave.png": "/PORTFOLIO/static/media/wave.fdfef4069ad90f610990.png",
     "static/media/crown.png": "/PORTFOLIO/static/media/crown.dbe416beae9b49b842ab.png",
-    "static/media/Vector2.png": "/PORTFOLIO/static/media/Vector2.28db5bfd58081dd1df1b.png",
     "static/media/devfest.webp": "/PORTFOLIO/static/media/devfest.5ac4293fd421cf041787.webp",
     "static/media/techpix.png": "/PORTFOLIO/static/media/techpix.0a4e47af9a7756785569.png",
     "static/media/gdsclogo.webp": "/PORTFOLIO/static/media/gdsclogo.e62ccf3213faa88729bd.webp",
     "index.html": "/PORTFOLIO/index.html",
-    "main.2377ec8b.css.map": "/PORTFOLIO/static/css/main.2377ec8b.css.map",
-    "main.7489f7c8.js.map": "/PORTFOLIO/static/js/main.7489f7c8.js.map"
+    "main.cf78c67c.css.map": "/PORTFOLIO/static/css/main.cf78c67c.css.map",
+    "main.a9056ba2.js.map": "/PORTFOLIO/static/js/main.a9056ba2.js.map"
   },
   "entrypoints": [
-    "static/css/main.2377ec8b.css",
-    "static/js/main.7489f7c8.js"
+    "static/css/main.cf78c67c.css",
+    "static/js/main.a9056ba2.js"
   ]
 }
