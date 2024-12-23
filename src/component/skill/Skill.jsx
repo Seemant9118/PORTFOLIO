@@ -21,7 +21,7 @@ const Skill = () => {
             <div className="awsm">
                 <span style={{ color: darkMode ? 'white' : '' }}>My Skills</span>
                 <span>are....</span>
-                <span>Experienced Frontend developer proficient in HTML, CSS, and JavaScript, ReactJs/NestJs, Tailwind CSS. </span>
+                <span>Experienced Frontend developer proficient in HTML, CSS, and JavaScript, ReactJs/NextJs, Tailwind CSS. </span>
                 <a href="https://www.linkedin.com/in/seemant-kamlapuri-b682331b5/details/skills/"><button className='button t-button'>check for more</button></a>
                 <div className="blur t-blur1" style={{ background: '#ABF1FF94' }}></div>
             </div>
